@@ -4,4 +4,4 @@ set -e
 
 export DEVICE=hltexx
 export VENDOR=samsung
-./../hltexx/extract-files.sh $@
+./../hlte-common/extract-files.sh $@
